@@ -1,16 +1,27 @@
-## Hi there 👋
+<h1 align="center">
+  <a href="https://github.com/lavkushry" target="_self">
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+  </a>
+  Hi, I'm Lavkush
+</h1>
 
-<!--
-**lavkushry/lavkushry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://www.linkedin.com/in/lavkushry/">LinkedIn</a> |
+  <a href="https://github.com/lavkushry">GitHub</a>
+</p>
 
-Here are some ideas to get you started:
+## About
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Software engineer focused on building reliable products.
+- Interested in cloud, cybersecurity, and AI.
+- Based in Bangalore, India.
+
+## GitHub Stats
+
+![contrib](./profile-3d-contrib/profile-night-rainbow.svg)
+
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com?user=lavkushry&theme=radical)
+
+</div>
