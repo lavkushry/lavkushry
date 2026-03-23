@@ -9,7 +9,7 @@ Work: [@lavkushry](https://github.com/lavkushry) | [LinkedIn](https://www.linked
 
 ## <picture><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"></picture><b> Github Stats </b>
 
-![contrib](./profile-3d-contrib/profile-night-rainbow.svg)
+![contrib](https://raw.githubusercontent.com/lavkushry/lavkushry/main/profile-3d-contrib/profile-night-rainbow.svg)
 
 <div align="center">
 
